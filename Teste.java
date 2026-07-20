@@ -1,6 +1,9 @@
 public class Teste {
     public static void main(String[] args) {
-        
+        System.out.println("   SISTEMA DE E-COMMERCE - PROJETO FINAL  - ");
+        System.out.println("   - Finalização do pedido -  ");
+
+
         // Instanciando objetos das subclasses
         Eletronico celular = new Eletronico("Smartphone Galaxy", 2000.00, 12);
         Vestuario camiseta = new Vestuario("Camiseta Polo", 100.00, "M");
